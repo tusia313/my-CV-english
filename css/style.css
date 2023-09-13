@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600&family=Source+Serif+4:wght@300;400;600;700&display=swap');
+/* font-family: 'Source Sans 3', sans-serif; */
+/* font-family: 'Source Serif 4', serif; */
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: lavenderblush;
+    color: blue;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 2.7rem;
+}
+
+h2 {
+    font-family: 'Source Serif 4', serif;
+    color: lightskyblue;
+}
+
+main {
+    height: 3508px ;
+    width: 2480px ;
+}
+
+nav {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1em 0;
+}
+nav .info {
+    color: white;
+    background-color: lightskyblue;
+    padding: 0.6em 1.3em;
+    border-radius: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+}
+
+nav .info a{
+    text-decoration: none;
+    color:white;
+}
+
+nav .info a:hover {
+    color: lavender;
+}
+
+header {
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+header .description {
+    width: 80%;
+    line-height: 1.5em;
+    padding: 0 3rem;
+}
+
+header .description h1 {
+    font-family: 'Source Serif 4', serif;
+    font-size: 2.5em;
+    color: rgba(119, 136, 153, 0.7);
+}
+
+header .profile img{
+    width: 100%;
+    vertical-align: auto;
+    border-radius: 50%;
+}
+
+#section_container {
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+}
+
+section.left_site {
+    width: 70%;
+}
+
+section.left_site table {
+    width: 100%;
+    table-layout: auto;
+    width: 100%;
+}
+
+table td{
+    vertical-align: top;
+    padding: 0.9rem;
+ }
+
+ table .date {
+    width: 25%;
+    font-weight: bold;
+ }
+
+section.right_site {
+    width: 27%;
+    padding: 3rem 0 0 3rem;
+}
+
+section.right_site table {
+    text-align: right;
+}
+
+ul {
+    list-style-type: none;
+}
+
+aside.confidentialy_clause {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 1rem;
+    font-size: 0.8em;
+ }
