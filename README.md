@@ -2,7 +2,7 @@
 
 ## What's it about?
 
-
+My, truly rich in content and achievements (half ironic, half true ;), CV in english language.
 
 ## First look 
 
