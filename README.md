@@ -6,7 +6,7 @@ My, truly rich in content and achievements (half ironic, half true ;), CV in eng
 
 ## First look 
 
-![My humble CV](./img/Marta _Łoskot CV_EN.pdf)
+![My humble CV](./img/Marta _Łoskot CV_EN.png)
 
 ## Technologies
 
