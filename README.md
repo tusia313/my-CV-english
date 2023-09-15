@@ -6,7 +6,7 @@ My, truly rich in content and achievements (half ironic, half true ;), CV in eng
 
 ## First look 
 
-[embed]./my-CV-english/img/CV.pdf[/embed]
+[embed]./img/CV.pdf[/embed]
 
 ## Technologies
 
