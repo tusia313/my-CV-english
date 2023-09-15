@@ -6,7 +6,7 @@ My, truly rich in content and achievements (half ironic, half true ;), CV in eng
 
 ## First look 
 
-[embed]http://github.com/tusia313/my-CV-english/img/CV.pdf[/embed]
+[embed]./my-CV-english/img/CV.pdf[/embed]
 
 ## Technologies
 
