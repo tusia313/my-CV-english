@@ -6,7 +6,7 @@ My, truly rich in content and achievements (half ironic, half true ;), CV in eng
 
 ## First look 
 
-[embed]img/Marta _Łoskot CV_EN.pdf[/embed]
+[embed]http://github.com/tusia313/my-CV-english/img/Marta _Łoskot CV_EN.pdf[/embed]
 
 ## Technologies
 
