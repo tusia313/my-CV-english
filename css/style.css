@@ -85,6 +85,12 @@ section.left_site {
     width: 70%;
 }
 
+section.left_site .GitHub {
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+}
+
 section.left_site table {
     width: 100%;
     table-layout: auto;
