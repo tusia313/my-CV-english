@@ -6,7 +6,7 @@ My, truly rich in content and achievements (half ironic, half true ;), CV in eng
 
 ## First look 
 
-[embed]./img/CV.png[/embed]
+![first page](./img/CV.png)
 
 ## Technologies
 
