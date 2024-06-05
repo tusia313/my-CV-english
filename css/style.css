@@ -19,6 +19,7 @@ h2 {
 main {
     height: 3508px ;
     width: 2480px ;
+    /* border: 1px solid magenta; */
 }
 
 nav {
@@ -121,7 +122,7 @@ ul {
 }
 
 aside.confidentialy_clause {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
     padding-bottom: 1rem;
     font-size: 0.8em;
