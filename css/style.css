@@ -9,6 +9,7 @@ body {
     color: blue;
     font-family: 'Source Sans 3', sans-serif;
     font-size: 2.7rem;
+    border: 3px solid magenta;
 }
 
 h2 {
