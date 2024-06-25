@@ -9,7 +9,6 @@ body {
     color: blue;
     font-family: 'Source Sans 3', sans-serif;
     font-size: 2.7rem;
-    border: 3px solid magenta;
 }
 
 h2 {
@@ -123,8 +122,8 @@ ul {
 }
 
 aside.confidentialy_clause {
-    width: 95%;
-    margin: 0 auto;
-    padding-bottom: 1rem;
+    width: 100%;
+    margin: 10rem auto 0 auto;
+    /* padding-bottom: 1rem; */
     font-size: 0.8em;
  }
